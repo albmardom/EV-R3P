@@ -1,6 +1,6 @@
 # EV-R3P
 
-Aquí se encuentran todos los códigos de matlab y Modelos de V-REP y LeoCAD del trabajo fin de grado "Modelado y Simulación de un Robot LEGO Mindstorms EV3 mediante V-REP y Matlab" realizado por Alberto Martín Domínguez y tutorizado por los doctores Ana María Cruz Martín y Juan Antonio Fernández Madrigal. Adicionalmente, se proporciona un paquete con todo lo necesario para utilizar el trabajo.
+Aquí se encuentran todos los códigos de matlab y Modelos de V-REP y LeoCAD del trabajo fin de grado "Modelado y Simulación de un Robot LEGO Mindstorms EV3 mediante V-REP y Matlab" realizado por Alberto Martín Domínguez y tutorizado por los doctores Ana María Cruz Martín y Juan Antonio Fernández Madrigal. Adicionalmente, se proporciona un paquete `.zip` con todo lo necesario para utilizar el trabajo.
 
 ## Estructura de directorios
 

@@ -18,7 +18,7 @@ Aquí se encuentran todos los códigos de matlab y Modelos de V-REP y LeoCAD del
   
 - **Modelo V-REP**. Contiene los modelos de V-REP del simulador, uno de ellos con colores (versión GROUP) y otro sin colores (versión Merge).
 
-## Como utilizar el trabajo
+## Como utilizarlo
 
 En este repositorio se encuentra un archivo `.pdf` con las instrucciones necesarias y las funciones para instalar y controlar el robot
 
